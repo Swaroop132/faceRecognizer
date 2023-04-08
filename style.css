@@ -1,0 +1,22 @@
+body {
+    color: #605c00;
+    background: midnightblue;
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera {
+    border: 2px rgb(0, 133, 195);
+    border-style: dotted dashed;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects,
+#result_object_name,
+#result_object_accuracy {
+    color: goldenrod;
+}
